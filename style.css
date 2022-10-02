@@ -62,15 +62,3 @@
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background-color:rgb(230, 141, 206);
   }
- 
-  @media (min-width: 576px) {
-    #table{
-      order:3;
-    }
-    #form{
-      order:4;
-    }
-    #ul li{
-      display:inline;
-    }
-  } 
